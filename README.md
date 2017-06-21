@@ -49,8 +49,8 @@ getRandom([1,2]);
 * Case 2: input does not exist
 ## 3.0 Reliability
 * Considering the returned value format
-* e.g1. if the array is in range 2,32; 
-* e.g2. if input not valid, return to empty array[]
+* eg.1. check if the array is in range 2,32; 
+* eg.2. if input not valid, return to empty array[]
 ```javascript
 function getRandom(x){
   if (isNaN(x))return [];
