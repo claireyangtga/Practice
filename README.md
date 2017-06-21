@@ -65,7 +65,7 @@ function getRandom(x){
 }
 getRandom();
 ```
-##Tolerance
+## Tolerance
 * if input is 3.1 not integer, should we process?
 * Do I have enough clear explanation? 
-* if 
+* if the range is changed, could I adjust accordingly with ONLY few changes? 
